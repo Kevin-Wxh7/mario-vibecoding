@@ -1,0 +1,19 @@
+I am a complete beginner and I want to build a simple browser-based 2D platformer inspired by Mario, but not a full Mario clone.
+
+Help me create the smallest possible starting project using Phaser 3.
+
+Requirements:
+- Use only HTML + JavaScript
+- Give me just 2 files: index.html and game.js
+- The game should run in the browser
+- Show a single player rectangle on screen
+- No enemies, no coins, no animation, no art assets yet
+- Keep the code simple and beginner-friendly
+- Add comments to important lines
+- Explain what each file does in very simple language
+
+Please output:
+1. the full contents of index.html
+2. the full contents of game.js
+3. exact steps to run it in the browser
+4. a short explanation of how the project is structured
